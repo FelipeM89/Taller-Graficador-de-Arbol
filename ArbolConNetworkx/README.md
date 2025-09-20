@@ -10,7 +10,7 @@ Este proyecto implementa un **analizador léxico y sintáctico** en Python que, 
 
 ---
 
-## ⚙ Herramientas utilizadas
+##  Herramientas utilizadas
 
 - **Python 3**  → lenguaje de programación principal.
 - **Expresiones Regulares (`re`)** → para la definición de tokens.
