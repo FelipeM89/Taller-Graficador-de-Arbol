@@ -170,6 +170,7 @@ Si en cualquier paso ocurre un error (token no reconocido, error sintáctico, et
 ## Pruebas
 - Cadena: (2+2)+4
   <img width="1008" height="603" alt="image" src="https://github.com/user-attachments/assets/8c5b5b9d-e0ba-4706-915a-9668c892e3cf" />
+---
 - Cadena 3/2+3
   <img width="786" height="84" alt="image" src="https://github.com/user-attachments/assets/4c3ff0e5-427c-41e4-8621-ca032c1fe96e" />
 --- 
