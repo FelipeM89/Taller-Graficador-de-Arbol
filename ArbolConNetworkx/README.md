@@ -172,8 +172,10 @@ Si en cualquier paso ocurre un error (token no reconocido, error sintáctico, et
   <img width="1008" height="603" alt="image" src="https://github.com/user-attachments/assets/8c5b5b9d-e0ba-4706-915a-9668c892e3cf" />
 - Cadena 3/2+3
   <img width="786" height="84" alt="image" src="https://github.com/user-attachments/assets/4c3ff0e5-427c-41e4-8621-ca032c1fe96e" />
-- cadena 2+2+2*4
+--- 
+- Cadena 2+2+2*4
   <img width="999" height="641" alt="image" src="https://github.com/user-attachments/assets/0d3e251d-8079-4280-b87f-a73e45c059ef" />
+---
 - Cadena: 2+2+r
   <img width="999" height="641" alt="image" src="https://github.com/user-attachments/assets/2070141f-bd91-4fcd-b7d1-3a3e60383927" />
 
